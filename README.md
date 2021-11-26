@@ -1,6 +1,6 @@
-# A handicraft project Server site
+# An Ecommerce site
 
-Website Live Link [Create React App](https://clothcenterdjango.herokuapp.com/).
+Website Live Link [Django live site](https://clothcenterdjango.herokuapp.com/).
 
 ## Available tech i have used
 
